@@ -42,3 +42,11 @@ Update: Upgraded to Java 11 and Graph QL to 5+ version dependency
    }
  }
 ```
+
+## Useful tutorials
+- Spring Boot GraphQL Tutorial #6
+- https://www.youtube.com/watch?v=AI4JGDI3zG4&list=PL0mgqHWxwZciKccW2CuDX6NNMOZ7ONaH4
+
+## Specific direction
+- Add extension in chrome for Altair client, a substitute for postman.
+- API `http://localhost:8091/api/v1/books`

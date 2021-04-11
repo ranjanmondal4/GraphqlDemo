@@ -1,0 +1,5 @@
+
+# all queries on this on this graphql server
+type Query {
+    user(id: String): User
+}
